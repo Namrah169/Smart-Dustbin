@@ -1,6 +1,7 @@
 #define BLYNK_TEMPLATE_ID "TMPL3Kvp1Nsr4"
 #define BLYNK_TEMPLATE_NAME "Dustbin"
-#define BLYNK_AUTH_TOKEN "vToMQUoiLnyMz2amQlB2RqBAvfQj15vv"
+#define BLYNK_AUTH_TOKEN 
+"BLYNK_AUTH_TOKEN"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
